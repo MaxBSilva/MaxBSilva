@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Max!!!</h1>
-<h3 align="center">Estou em processo de migração de carreira para o mundo da tecnologia. No momento estou cursando Data Sciente no instituto Anhanguera (1º semestre) e estou gostando muito, estou muito animado para aprender mais sobre dados, manipulação e IA's.</h3>
+<h3 align="center">Estou em processo de migração de carreira para o mundo da tecnologia. No momento estou cursando Data Sciente no instituto Anhanguera, aprendendo mais sobre dados, manipulação e IA's.</h3>
 
 - 🔭 Atualmente praticando nesse projeto pois gosto de pokemon e quero criar um banco relacional para um jogo PIXIL de Pokemon: **Pokedex** (Desculpe vou por o link em breve) <!-- [Pokedex]((Desculpe vou por o link em breve)) -->
 
@@ -8,11 +8,11 @@
 - 📄 Estudando e trabalhando para trazer um portfolio digno: [(...)]((...))
 
 - 💬 Me pergunte sobre: 
-- **SQL/PostgreSQL**         ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+- **SQL/PostgreSQL**         ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/70)
 - **Python...**          ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/55)
 - **C# "Delicia de linguagem"**   ➜![](https://us-central1-progress-markdown.cloudfunctions.net/progress/14)
 
-- 📫 Você pode me contatar aqui: **flowript@gmail.com**
+- 📫 Você pode me contatar aqui: **neodevjs@gmail.com**
 
 - 📄 Já trabalhei em muitas áreas, principalmente na área de vendas, atualmente trabalho como assistente de TI corporativo e ajudando em melhorias de telas, rotinas e desenvolvimento no hambiente Sênior ERP - HCM - Elis Brasil: [https://www.linkedin.com/in/max-b-silva-982086220/](https://www.linkedin.com/in/max-b-silva-982086220/)
 
